@@ -1,0 +1,2 @@
+# socpokh
+Manufacture Socpokh repository 
